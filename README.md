@@ -1,4 +1,8 @@
-### Example of simple gulp configuration
+#### Example of simple gulp configuration
+
+####Installation
+  <code>npm install gulp -g</code>
+  <code>npm install</code>
 
 ###Tasks : 
   * build : clean the dist directory and generate minified js and css files and a production ready index file.  <code>gulp build</code>
